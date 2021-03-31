@@ -1,17 +1,12 @@
 h1 {text-align: center;
-    font-size: 70px;
-}
+    font-size: 70px;}
 
 
 
 h4 {text-align: center;
-    font-size: 40px
-}
+    font-size: 40px}
 
-a { color:yellowgreen
-
-
-}
+a { color:yellowgreen}
 
 
 body { background-color: rgb(155, 189, 155);
@@ -20,35 +15,31 @@ body { background-color: rgb(155, 189, 155);
      background-size: 100%;
 
      font-family: 'Amatic SC', cursive;
-     font-size: 150%;
-}
+     font-size: 170%;}
 
 
 
 
 
 
-.homepickle { background: rgb(15, 90, 33); padding: 100; margin: none; opacity: 75%;
-
-}
+.homepickle { background: rgb(15, 90, 33); padding: 100; margin: none; opacity: 75%;}
 
 img {
-  width:170px;height:170px;margin-left:15px;       
-}
+  width:170px;height:170px;margin-left:15px;   }
 
-#center {
+
+
+  #center {
 
     background-color: rgb(245, 252, 245);
      text-align: center; 
-     font-size: 50px;
+     font-size: 50px;}
+
+
+
 
     
-}
-
-a:hover { background-color: rgb(224, 248, 210);
-
-
-}
+a:hover { background-color: rgb(224, 248, 210);}
 
 
 
@@ -62,9 +53,7 @@ div{ margin: 115px;
   text-align: center;
 border-style: dashed;
  border-color:darkolivegreen ;
-  font-size: larger;
-
-}
+  font-size: larger;}
 
 
 
@@ -116,4 +105,4 @@ input[type=text], select, textarea {
 
 
 
-.
+
