@@ -22,7 +22,8 @@ body { background-color: rgb(155, 189, 155);
 
 
 
-.homepickle { background: rgb(15, 90, 33); padding: 100; margin: none; opacity: 75%;}
+
+.homepickle { background: rgb(48, 90, 33); padding: 100; margin: none; opacity: 85%;}
 
 .logo{
   width: 250px;height:250px;margin-left:15px;   }
@@ -43,8 +44,9 @@ a:hover { background-color: rgb(224, 248, 210);}
 
 
 
+.mappy{ float:right; margin-right: 50px; ;
 
-
+}
 
 
 div{ margin: 115px; 
@@ -57,7 +59,7 @@ border-style: dashed;
 
 
 
-.aboutpickle {background-color: rgb(15, 90, 33);   }
+.aboutpickle {background-color: rgb(48, 90, 33);  }
 
 
 
@@ -90,7 +92,7 @@ input[type=text], select, textarea {
   
   .container {
     border-radius: 5px;
-    background-color: #4b8d42; opacity: 86%;
+    background-color: rgb(48, 90, 33); opacity: 86%;
     padding: 20px;
   }
 
@@ -98,13 +100,17 @@ input[type=text], select, textarea {
   footer {
     text-align: center;
     
-    background-color: rgb(48, 136, 59); opacity: 75%;
+    background-color: rgb(48, 90, 33); opacity: 75%;
     color: white;
     font-size: 150%;
   }
 
 
-
-
-
+  .hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/stacked\ pickles.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
   
